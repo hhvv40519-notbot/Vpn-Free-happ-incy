@@ -1,0 +1,6 @@
+#profile-title: VPN-FREE
+#profile-update-interval: 1
+#hide-settings: true
+
+vless://...
+vless://...

@@ -1,4 +1,4 @@
-#profile-title: VPN-FREE
+#profile-title: VPN FREE
 #profile-update-interval: 1
 #hide-settings: true
 

@@ -1,7 +1,7 @@
 #profile-title: VPN FREE
 #profile-update-interval: 1
 #hide-settings: true
-#support-url: https://t.me/+4rwyWXXWOYJjMTUy
+#support-url: https://t.me/+4rwyWXXWOYJjMTUy, https://hhvv40519-notbot.github.io/Vpn-Free-happ-incy/support/
 #announce: Это безплатная подписка
 #subscription-userinfo: upload=0; download=62914560; total=107374182400; expire=1819728000
 
